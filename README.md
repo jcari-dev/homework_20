@@ -1,6 +1,6 @@
 
 # homework20
 
-# KingsmenAuth
+# KingsmanAuth
 The best group doing Kingsmen Auth Lab
 
